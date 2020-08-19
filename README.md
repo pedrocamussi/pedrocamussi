@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! sou o Pedro  👋
 
-<!--
-**pedrocamussi/pedrocamussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Desenvolvedor Front End em progresso
+🔭 Trabalhando atualmente como Designer Gráfico na Tecmaes
+🎓 Formado em Análise e Desenvolvimento pela Fatec Ourinhos
 
-Here are some ideas to get you started:
+💻 Atualmente, venho aprendendo constantemente as seguintes linguagens e técnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/html.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/css.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/javascript.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/nodejs.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/react.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/mongodb.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/docker.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/wordpress.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/mysql.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/photoshop.png"></code>
+<code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/figma.png"></code>
+
+📫 Utilize meu [Linkedin](https://www.linkedin.com/in/pedro-h-c-953035122/) para contato.
