@@ -4,7 +4,7 @@
 
 🔭 Currently working as a **Graphic Designer** at Tecmaes
 
-🎓 Graduated in **Analysis and Development** by Fatec Ourinhos
+🎓 Graduated in **Analysis and Systems Development** by Fatec Ourinhos
 
 💻 I've been constantly learning the following **languages and technologies**
 
