@@ -1,12 +1,12 @@
-### Olá! sou o Pedro  👋
+### Hello! I'm Pedro  👋
 
-🌱 Desenvolvedor Front End em progresso
+🌱 **Front End Developer** in Progress
 
-🔭 Trabalhando atualmente como Designer Gráfico na Tecmaes
+🔭 Currently working as a **Graphic Designer** at Tecmaes
 
-🎓 Formado em Análise e Desenvolvimento pela Fatec Ourinhos
+🎓 Graduated in **Analysis and Development** by Fatec Ourinhos
 
-💻 Atualmente, venho aprendendo constantemente as seguintes linguagens e técnologias
+💻 I've been constantly learning the following **languages and technologies**
 
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/html.png"></code>
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/css.png"></code>
@@ -20,4 +20,4 @@
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/photoshop.png"></code>
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/figma.png"></code>
 
-📫 Utilize meu [Linkedin](https://www.linkedin.com/in/pedro-h-c-953035122/) para contato.
+📫 Use my [Linkedin](https://www.linkedin.com/in/pedro-h-c-953035122/) to contact me.
