@@ -1,7 +1,9 @@
 ### Olá! sou o Pedro  👋
 
 🌱 Desenvolvedor Front End em progresso
+
 🔭 Trabalhando atualmente como Designer Gráfico na Tecmaes
+
 🎓 Formado em Análise e Desenvolvimento pela Fatec Ourinhos
 
 💻 Atualmente, venho aprendendo constantemente as seguintes linguagens e técnologias
