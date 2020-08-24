@@ -20,4 +20,4 @@
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/photoshop.png"></code>
 <code><img height="20" src="https://github.com/pedrocamussi/pedrocamussi/blob/master/assets/figma.png"></code>
 
-📫 Use my (Linkedin)[https://www.linkedin.com/in/pedro-h-c-953035122/] to contact me.
+📫 Use my [Linkedin](https://www.linkedin.com/in/pedro-h-c-953035122/) to contact me.
