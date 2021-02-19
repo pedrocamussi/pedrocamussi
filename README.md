@@ -1,6 +1,6 @@
 ### Hello! I'm Pedro  👋
 
-🌱 **Front End Developer** in Progress
+🌱 **Front End / Mobile Developer** in Progress
 
 🔭 Currently working as a **Graphic Designer** at Tecmaes
 
